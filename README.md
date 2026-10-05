@@ -26,4 +26,4 @@ Technologies
 Purpose
 
 This project was created as a learning project to practice working with audio recording, local file storage, playback controls, timers, and file management in Flutter.
-![image 
+![image alt](https://github.com/hmydanhydr8-jpg/voice_notes/blob/main/Screenshot_%D9%A2%D9%A0%D9%A2%D9%A6%D9%A1%D9%A0%D9%A0%D9%A5-%D9%A1%D9%A0%D9%A3%D9%A8%D9%A1%D9%A0.jpg?raw=true)
